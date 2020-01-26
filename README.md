@@ -2,14 +2,14 @@
 
 This [Phoenix](https://github.com/kasper/phoenix) config attempts to automate window managent across multiple screens and spaces.
 
-# Installation
+## Installation
 
 1. [Install Phoenix](https://github.com/kasper/phoenix#install).
 2. In the macOS menu bar, click on Phoenix > Edit configuration.
 3. Paste the contents of `.phoenix.js`.
 4. Open System Preferences > Keyboard > Shortcuts > Mission Control and bind all `Switch to Desktop 1-9` actions to <kbd>⌃</kbd> + <kbd>⌥</kbd> + <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>1-9</kbd>. There are actions up to the 9th desktop, but they may not be shown to you if you have less then 9 desktops currently open.
 
-# Usage
+## Usage
 
 Press <kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>⏎</kbd> to organise your windows across your screens and their respective spaces as follows:
 
