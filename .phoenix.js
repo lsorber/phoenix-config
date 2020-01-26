@@ -94,6 +94,6 @@ function organise(screens) {
   }
 }
 
-Key.on("z", [ "ctrl", "shift" ], function () {
+Key.on("return", [ "command", "option" ], function () {
   organise(Screen.all());
 });
