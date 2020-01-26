@@ -11,7 +11,7 @@ This [Phoenix](https://github.com/kasper/phoenix) config attempts to automate wi
 
 ## Usage
 
-Press <kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>⏎</kbd> to organise your windows across your screens and their respective spaces as follows:
+Press <kbd>⌥</kbd> + <kbd>⌘</kbd> + <kbd>⏎</kbd> to organise your windows across your screens and their respective spaces as follows:
 
 1. On each screen, each space is divided into equal columns so that each column has an aspect ratio of at least 1:1 (but not more than 2:1). For example, an ultrawide 21:9 screen would have 2 columns per space, and a widescreen 16:9 would have 1 column per space.
 2. On each screen, your active space's windows are greedily assigned to fill the space's columns.
